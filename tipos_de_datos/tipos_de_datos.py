@@ -1,4 +1,4 @@
-nombre = True
 
-bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
-print("hello" not in bienvenida)
+lista = ["Juanono", "holbie", 1.82, 22]
+
+print(lista)
