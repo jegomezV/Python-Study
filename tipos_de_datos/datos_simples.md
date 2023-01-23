@@ -52,13 +52,13 @@ año = 11.
 
 ***Example:***
 
-***In this case we have the comparison the "hello".***
-***As the string "hello"  is not in the sentence the output is false***
+***In this case we have the comparison of the word "hello".***
+***Since the word "hello" is not in the sentence, the output is false.***
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/not%20in.png?raw=true">
 
 ---
 
-***And the other alternative is comparison for not exist the "string" in the sentence:*** 
+***And the other alternative is the non-existence comparison of the word in the sentence:*** 
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/not%20innn.png?raw=true">

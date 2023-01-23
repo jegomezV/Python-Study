@@ -8,7 +8,7 @@ print(lista)
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/lista2.png?raw=true">
 
-***if we need only a especify element to the list we can use this in your print:***
+***if we only need a specific item from the list we can use this in your printout:***
 print(lista[1])
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/list3.png?raw=true">
@@ -19,6 +19,6 @@ and your result is:
 
 ---
 
-## ***we have the "tuplas" that work in the same way, the only change is that "tuplas" work with the "parentesis () " and other important diference is that cannot be modify*** 
+## ***we have the "tuplas" that work in the same way, the only change is that "tuplas" work with the "parentesis () " and other important diference is that cannot be modify.*** 
 
 ---
