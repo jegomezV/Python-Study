@@ -16,3 +16,9 @@ print(lista[1])
 and your result is:
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/list%204.png?raw=true">
+
+---
+
+***we have the "tuplas" that work in the same way, the only change is that "tuplas" work with the "parentesis () " and other important diference is that cannot be modify*** 
+
+---
