@@ -44,3 +44,4 @@ año = 11.
 
 print(bienvenida)
 
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/Captura%20de%20pantalla%202023-01-23%20140210.png">
