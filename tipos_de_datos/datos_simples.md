@@ -52,12 +52,6 @@ año = 11.
 
 ***Example:***
 
-nombre = True
-
-bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
-
-print("hello" in bienvenida)
-
 ***In this case we have the comparison the "hello".***
 ***As the string "hello"  is not in the sentence the output is false***
 
@@ -66,10 +60,5 @@ print("hello" in bienvenida)
 ---
 
 ***And the other alternative is comparison for not exist the "string" in the sentence:*** 
-
-nombre = True
-
-bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
-print("hello" not in bienvenida)
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/not%20innn.png?raw=true">
