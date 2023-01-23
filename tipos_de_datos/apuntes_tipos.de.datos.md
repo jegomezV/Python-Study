@@ -25,7 +25,7 @@ edad = 10
 
 año = edad + 1
 
-año = 11
+año = 11.
 
 ***Caso +=:***
 
@@ -33,7 +33,7 @@ edad = 10
 
 año += 1
 
-año 11
+año = 11.
 
 ---
 
@@ -43,3 +43,5 @@ año 11
 ***bienvenida*** = "Hola" + nombre + "¿Como estas el dia de hoy?"
 
 print(bienvenida)
+
+[Codigo_concatenacion]https://github.com/jegomezV/Python-Study/blob/master/tipos_de_datos/tipos_de_datos.py
