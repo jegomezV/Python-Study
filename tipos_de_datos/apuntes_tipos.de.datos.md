@@ -45,3 +45,12 @@ año = 11.
 print(bienvenida)
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/Captura%20de%20pantalla%202023-01-23%20140210.png">
+
+***Se puede utilizar la "f" para convertir cualquier tipo de dato en texto para usar una variable general:***
+
+nombre = "Juanono2206"
+
+bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
+print(bienvenida)
+
+<img src="">
