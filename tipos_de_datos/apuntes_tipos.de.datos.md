@@ -44,4 +44,4 @@ año = 11.
 
 print(bienvenida)
 
-[Codigo_concatenacion]https://github.com/jegomezV/Python-Study/blob/master/tipos_de_datos/tipos_de_datos.py
+<img src="/home/juano/python_clases/Python-Study/images/concats.png">
