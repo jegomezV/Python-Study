@@ -11,8 +11,8 @@ print(lista)
 ***if we need only a especify element to the list we can use this in your print:***
 print(lista[1])
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/list3.png?raw=true">
 
 and your result is:
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/list%204.png?raw=true">
