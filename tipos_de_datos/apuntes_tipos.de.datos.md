@@ -53,4 +53,22 @@ nombre = "Juanono2206"
 bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
 print(bienvenida)
 
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concat2.png?raw=true">
+
+---
+## ***Int && not in:***
+
+***-they is used to compare a character or a word.***
+
+***Example:***
+
+nombre = True
+
+bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
+
+print("hello" in bienvenida)
+
+***In this case we have the comparison the "hello".***
+***As the string "hello"  is not in the sentence the output is false***
+
 <img src="">

@@ -1,4 +1,4 @@
-nombre = "Juanono2206"
+nombre = True
 
 bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
-print(bienvenida)
+print("hello" in bienvenida)
