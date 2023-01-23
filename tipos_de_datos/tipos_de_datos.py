@@ -1,4 +1,2 @@
-
-lista = ["Juanono", "holbie", 1.82, 22]
-
-print(lista[1])
+conjunto = {"carro", 101, "Juano" }
+print(conjunto)

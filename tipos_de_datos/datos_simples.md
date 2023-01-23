@@ -42,7 +42,10 @@ año = 11.
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concat1.png?raw=true">
 
 ***Se puede utilizar la "f" para convertir cualquier tipo de dato en texto para usar una variable general:***
+
 using of the example to other var:
+
+
 name = 2206
 
 On this case we can use "f" to convert integer data type to string data type
