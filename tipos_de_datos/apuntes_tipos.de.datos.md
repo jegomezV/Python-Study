@@ -44,4 +44,3 @@ año = 11.
 
 print(bienvenida)
 
-<img src="/home/juano/python_clases/Python-Study/images/concats.png">
