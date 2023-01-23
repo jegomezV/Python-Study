@@ -19,6 +19,6 @@ and your result is:
 
 ---
 
-***we have the "tuplas" that work in the same way, the only change is that "tuplas" work with the "parentesis () " and other important diference is that cannot be modify*** 
+## ***we have the "tuplas" that work in the same way, the only change is that "tuplas" work with the "parentesis () " and other important diference is that cannot be modify*** 
 
 ---
