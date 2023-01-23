@@ -24,4 +24,17 @@ and your result is:
 ---
 
 ## ***SETS:***
-To use we need use this sintaxis
+*To use it we must use this syntax:*
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/conjunto1.png?raw=true">
+
+*- What is stored there has no position.*
+
+*- No element can be repeated.*
+
+## ***DICT:***
+*Is a struct type for store data.*
+
+***Sintax:***
+
+<img src="">

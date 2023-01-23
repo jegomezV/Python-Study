@@ -1,2 +1,6 @@
-conjunto = {"carro", 101, "Juano" }
-print(conjunto)
+diccionario = {
+        "nombre" : "Juano edo",
+        "edad" : 22,
+        "estatura" : 1.82
+}
+print(diccionario["nombre"])
