@@ -82,4 +82,4 @@ nombre = True
 bienvenida = f"Hola {nombre} ¿Como estas el dia de hoy?"
 print("hello" not in bienvenida)
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/not%20innn.png?raw=true">
