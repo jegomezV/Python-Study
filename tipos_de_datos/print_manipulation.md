@@ -15,3 +15,6 @@
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/apunte2.png?raw=true">
 
 ---
+
+## ***Si queremos imprimir un flotante debemos hacerlo de esta manera:***
+
