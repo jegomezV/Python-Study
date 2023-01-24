@@ -18,3 +18,12 @@
 
 ## ***Si queremos imprimir un flotante debemos hacerlo de esta manera:***
 
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/float1.png?raw=true">
+
+---
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/float2.png?raw=true">
+
+---
+
