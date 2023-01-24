@@ -34,3 +34,15 @@
 
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/prueba%20_codigo1.png?raw=true">
+
+---
+
+## ***In this case we do this exercise:***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/example1.png?raw=true">
+
+---
+
+## ***And the solution is this:***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/example0.png?raw=true">
