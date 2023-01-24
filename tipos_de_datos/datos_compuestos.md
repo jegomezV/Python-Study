@@ -37,4 +37,5 @@ and your result is:
 
 ***Sintax:***
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/dict1.png?raw=true">
+
