@@ -53,4 +53,10 @@
 
 ## ***Problem:***
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/frasec0.png?raw=true">
+
+---
+
+***And the solution:***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/frasec.png?raw=true">
