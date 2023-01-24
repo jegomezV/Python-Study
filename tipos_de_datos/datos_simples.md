@@ -53,6 +53,12 @@ On this case we can use "f" to convert integer data type to string data type
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concat2.png?raw=true">
 
 ---
+
+## Other example:
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concateje.png?raw=true"
+
+---
 ## ***Int && not in:***
 
 ***-they is used to compare a character or a word.***
