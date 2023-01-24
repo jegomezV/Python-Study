@@ -4,14 +4,14 @@
 
 ## ***In this segment i store a screenshots with important information above print conditions:***
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/apunte0.png?raw=true">
 
 ---
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/apunte1py.png?raw=true">
 
 ---
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/apunte2.png?raw=true">
 
 ---
