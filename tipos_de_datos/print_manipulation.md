@@ -27,3 +27,10 @@
 
 ---
 
+## ***in this situation we have a two points.***
+***We need print the sentence tree times, and after we neet only print nine fist characters of the sentence.***
+
+---
+
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/prueba%20_codigo1.png?raw=true">
