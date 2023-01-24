@@ -56,7 +56,7 @@ On this case we can use "f" to convert integer data type to string data type
 
 ## Other example:
 
-<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concateje.png?raw=true"
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/concateje.png?raw=true">
 
 ---
 ## ***Int && not in:***
