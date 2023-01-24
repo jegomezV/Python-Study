@@ -46,3 +46,11 @@
 ## ***And the solution is this:***
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/example0.png?raw=true">
+
+---
+
+## ***In this case we need use the sentence and modify this same***
+
+## ***Problem:***
+
+<img src="">
