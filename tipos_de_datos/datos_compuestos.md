@@ -23,6 +23,11 @@ and your result is:
 
 ---
 
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/mastuplas.png?raw=true">
+
+---
+
+
 ## ***SETS:***
 *To use it we must use this syntax:*
 
