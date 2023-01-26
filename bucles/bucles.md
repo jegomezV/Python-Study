@@ -16,3 +16,13 @@
 ## ***how can i iterate a list with the index:***
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/r_indice.png?raw=true">
+
+---
+
+## ***For Else:***
+
+***The "else" in the "for" only has activate a time.***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/for_else.png?raw=true">
+
+---
