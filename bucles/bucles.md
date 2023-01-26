@@ -4,6 +4,7 @@
 
 ## ***Sintax:***
 
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/sinta.png?raw=true">
 
 
 ## ***How can i iterate two lists at the same time:***
