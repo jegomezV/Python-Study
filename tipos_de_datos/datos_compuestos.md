@@ -37,6 +37,10 @@ and your result is:
 
 *- No element can be repeated.*
 
+## ***How can i add a set into another set:***
+
+<img src="">
+
 ## ***DICT:***
 *Is a struct type for store data.*
 
