@@ -82,6 +82,8 @@ On this case we can use "f" to convert integer data type to string data type
 
 ***Asignacion de valores a variables especificas por ejemplo, almacenando los valores de un diccionario.***
 
+***Tiene que tener la misma cantidad de variables que de datos.***
+
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/desempaquetarvar.png?raw=true">
 
