@@ -11,3 +11,8 @@
 
 <img src ="https://github.com/jegomezV/Python-Study/blob/master/-/images/zip.png?raw=true">
 
+---
+
+## ***how can i iterate a list with the index:***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/r_indice.png?raw=true">
