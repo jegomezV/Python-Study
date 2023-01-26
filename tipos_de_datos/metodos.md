@@ -8,4 +8,4 @@
 
 ## ***Metodos diccionario:***
 
-<img src="">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/metododic.png?raw=true">
