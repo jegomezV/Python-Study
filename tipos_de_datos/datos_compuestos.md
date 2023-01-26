@@ -39,7 +39,7 @@ and your result is:
 
 ## ***How can i add a set into another set:***
 
-<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/conjunconjun.png?raw=true" width="+200" height="+200">
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/conjunconjun.png?raw=true" width="600" height="600">
 
 ## ***DICT:***
 *Is a struct type for store data.*
