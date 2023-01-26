@@ -75,3 +75,13 @@ On this case we can use "f" to convert integer data type to string data type
 ***And the other alternative is the non-existence comparison of the word in the sentence:*** 
 
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/not%20innn.png?raw=true">
+
+---
+
+## ***Desempaquetar variables:***
+
+***Asignacion de valores a variables especificas por ejemplo, almacenando los valores de un diccionario.***
+
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/desempaquetarvar.png?raw=true">
+
