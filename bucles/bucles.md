@@ -26,3 +26,8 @@
 <img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/for_else.png?raw=true">
 
 ---
+
+## ***How iterate on a dictionary:***
+
+<img src="https://github.com/jegomezV/Python-Study/blob/master/-/images/dic_dic.png?raw=true">
+
